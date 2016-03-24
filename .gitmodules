@@ -1,0 +1,4 @@
+[submodule "docstheme"]
+	path = tianzhRepo2222/_themes
+	url = https://github.com/Microsoft/templates.docs.msft
+	branch = master
